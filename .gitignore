@@ -9,4 +9,5 @@ masked/train_big.csv
 models/
 models_zip/
 map/
+plumber_test/
 dpm_map.R
