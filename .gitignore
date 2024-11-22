@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.idea
+raw/
+unmasked/
+masked/train_big.csv
+models/
+models_zip/
+map/
+dpm_map.R
